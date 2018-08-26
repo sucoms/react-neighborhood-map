@@ -1,0 +1,56 @@
+[
+        {
+          "key": "key-Osijek Zoo",
+          "title": "Osijek Zoo and Aquarium",
+          "name": "Osijek Zoo and Aquarium",
+          "position": { "lat": 45.568691, "lng": 18.667545 }
+        },
+        {
+          "key": "key-tvrđa",
+          "title": "Tvrđa",
+          "name": "Tvrđa",
+          "position": { "lat": 45.561946, "lng": 18.696206 }
+        },
+        {
+          "key": "key-citycenter",
+          "title": "Ante Starčević Square",
+          "name": "Ante Starčević Square",
+          "position": { "lat": 45.561505, "lng": 18.676748 }
+        },
+        {
+          "key": "key-mall",
+          "title": "Portanova (Osijek)",
+          "name": "Portanova (Osijek)",
+          "position": { "lat": 45.554840, "lng": 18.639593 }
+        },
+        {
+          "key": "key-cocathedral",
+          "title": "Osijek Co-cathedral",
+          "name": "Osijek Co-cathedral",
+          "position": { "lat": 45.560848, "lng": 18.675983 }
+        },
+        {
+          "key": "key-esplanade",
+          "title": "Osječka promenada",
+          "name": "Osječka promenada",
+          "position": { "lat": 45.562824, "lng": 18.676627 }
+        },
+        {
+          "key": "key-railway-station",
+          "title": "Osijek railway station",
+          "name": "Railway station",
+          "position": { "lat": 45.553223, "lng": 18.684828 }
+        },
+        {
+          "key": "key-bus-station",
+          "title": "Osijek bus station",
+          "name": "Bus station",
+          "position": { "lat": 45.553319, "lng": 18.679985 }
+        },
+        {
+          "key": "key-gradski-vrt",
+          "title": "Stadion Gradski vrt",
+          "name": "Stadion Gradski vrt",
+          "position": { "lat": 45.544985, "lng": 18.695539 }
+        }
+]
